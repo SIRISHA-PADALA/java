@@ -1,0 +1,2 @@
+VOTED_VOTERS|
+ELECTION_STATUS|false|false
